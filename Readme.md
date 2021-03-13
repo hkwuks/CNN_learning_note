@@ -42,6 +42,8 @@
 
 ![image-20210313213702058](Readme.assets/image-20210313213702058.png)
 
+**卷积核越大，得到的特征越多**
+
 ![image-20210313214132554](Readme.assets/image-20210313214132554.png)
 
 ![image-20210313214335434](Readme.assets/image-20210313214335434.png)
